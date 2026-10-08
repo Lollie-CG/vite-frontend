@@ -1,4 +1,4 @@
-import { Link, Navigate, Route, Routes, useLocation } from 'react-router-dom'
+ import { Link, Navigate, Route, Routes, useLocation } from 'react-router-dom'
 import './App.css'
 import Ambition from './pages/Ambition'
 import Home from './pages/Home'
